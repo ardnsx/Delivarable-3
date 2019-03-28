@@ -1,0 +1,10 @@
+//testing numbers to make sure only one number is allowed to be entered
+
+/*
+Number is entered
+User enters number in puzzle from keyboard, then hits submit button
+Submit button available AND Number is entered in square in puzzle
+Letter is entered
+User enters a letter
+Submit button unavailable AND nothing entered in puzzle
+*/
