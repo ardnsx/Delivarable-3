@@ -1,1 +1,7 @@
-system.out.println("hi");
+//testing button functionality
+
+/**
+1. user clicks the button on the start menu
+2. button function would check to see if the transition has occured under 1 second
+3. if boolean returns true, then the functionality test has passed
+/**
