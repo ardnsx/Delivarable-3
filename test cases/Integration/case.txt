@@ -1,0 +1,19 @@
+/*
+
+Check for link between social media and game
+Enter login credentials for social media and click login button when setting up account
+Score can be shared on social media via the share button
+
+Check if there is a link between start game and puzzle module
+Click start game button
+Puzzle will generate on game board
+
+Check if there is a link between reset game and puzzle module
+Click reset button
+Game board will clear all user input
+
+Theoretically, check how the application interacts with the Android OS
+Each Android version in different, therefore it will be optimized differently for each device
+Timing will be checked for various functions such as start of game, moving from one page to another. Overall, the code will have to be optimized based on the source code, so that the hardware from the device is used at its max potential.  
+
+*/
