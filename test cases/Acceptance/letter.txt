@@ -1,0 +1,8 @@
+//testing letters to make sure no letters are entered
+/*
+
+Letter is entered
+User enters a letter
+Submit button unavailable AND nothing entered in puzzle
+
+*/
