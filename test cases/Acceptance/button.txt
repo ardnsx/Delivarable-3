@@ -1,7 +1,16 @@
 //testing button functionality
 
-/**
+/*
 1. user clicks the button on the start menu
 2. button function would check to see if the transition has occured under 1 second
 3. if boolean returns true, then the functionality test has passed
-/**
+*/
+
+/*
+GRADING:
+
+if less than 0.5 sec - - - - 10
+if less than 1 sec - - - - - 7
+if less than 1.5 sec - - - - 5
+if greater than 1.5 sec - -  0
+*/
