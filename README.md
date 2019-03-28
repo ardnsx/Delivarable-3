@@ -6,3 +6,5 @@ Sudoku game for project deliverable 3. Game is not fully complete as we only hav
 2. Have all the files in the same folder/location
 3. Double-click sudoku.html
 4. enjoy the visuals of sudoku
+
+*acceptance and unit test folders are switched
